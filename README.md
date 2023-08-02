@@ -2,6 +2,8 @@
 
 #### You can get complete information about a Python module with this tool! 
 
+# Be sure to use a VPN !
+
 ## screen shot 
 <img src="screen/screen.jpg">
 
